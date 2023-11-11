@@ -1,4 +1,4 @@
-"use-client";
+"use client";
 
 import { Fragment, useRef, ElementRef } from "react";
 import {format } from "date-fns";
